@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #D5E1EF;
+    font-family:Arial, Helvetica, sans-serif;
+    width: 1440px;
+}
+
+#geral{
+    margin-top: 75px;
+}
+
+#container{
+    background-color: white;
+    text-align: center;
+    margin: 0 auto;
+    width: 20%;
+    padding: 12px;
+    border-radius: 13px;
+    box-shadow: 0 3px 7px 0 rgb(196, 196, 196);
+}
+
+#container img{
+    width: 95%;
+    border-radius: 13px;
+}
+
+.textos{
+    padding: 10px;
+    color: #252D3C;
+}
+
+.textos h3{
+    font-size: 1.2em;
+    margin-top: 15px;
+}
+.textos p{
+    font-size: 13px;
+    margin: 15px 15px;
+    font-weight: 0;
+}
